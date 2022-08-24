@@ -1,0 +1,1 @@
+1. In factory, call the base class Component.SetPosition and then call GetPosition in draw function
